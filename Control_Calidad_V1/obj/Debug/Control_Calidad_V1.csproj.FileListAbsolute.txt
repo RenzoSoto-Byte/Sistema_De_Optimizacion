@@ -1,0 +1,235 @@
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo con C#\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Google.Protobuf.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\MySql.Data.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Buffers.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Memory.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\ZstdSharp.dll
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Google.Protobuf.pdb
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Google.Protobuf.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\MySql.Data.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Buffers.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Memory.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jhonn\Desktop\TrabajoAbelOsiptel\Lingo_TrabajoSoftware\Control_Calidad_V1\Control_Calidad_V1\obj\Debug\Control_.1B3C1ACA.Up2Date
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\MySql.Data.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Buffers.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Memory.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\ZstdSharp.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.pdb
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\MySql.Data.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Buffers.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Memory.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_.1B3C1ACA.Up2Date
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\MySql.Data.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Buffers.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Memory.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\ZstdSharp.dll
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.pdb
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\MySql.Data.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Buffers.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Memory.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_.1B3C1ACA.Up2Date
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\PROYECTOS\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\MySql.Data.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Buffers.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Memory.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\ZstdSharp.dll
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.pdb
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Google.Protobuf.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\MySql.Data.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Buffers.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Memory.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_.1B3C1ACA.Up2Date
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\ChapiTec\Desktop\Trabajo_Lingo\Control_Calidad_V2\ProjectLingo-main-VF\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe.config
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Control_Calidad_V1.pdb
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\MySql.Data.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Buffers.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Memory.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\ZstdSharp.dll
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.pdb
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Google.Protobuf.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\MySql.Data.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Buffers.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Memory.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.AssemblyReference.cache
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Form1.resources
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.Properties.Resources.resources
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.GenerateResource.cache
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.csproj.CoreCompileInputs.cache
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_.1B3C1ACA.Up2Date
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.exe
+C:\Users\RENZO\Desktop\MOD\ProjectLingo-main (1)\ProjectLingo-main\Control_Calidad_V1\obj\Debug\Control_Calidad_V1.pdb

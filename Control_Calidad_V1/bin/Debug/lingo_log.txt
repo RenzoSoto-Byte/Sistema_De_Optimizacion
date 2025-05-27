@@ -1,0 +1,34 @@
+  LINGO/WIN64 21.0.0.37 (13 Jan 2025)
+ 
+  LINDO API 15.0.6099.214 (Jan 17 2025 18:51:49)
+ 
+  Copyright (C) 2011-2023 LINDO Systems Inc. Licensed material,
+  all rights reserved. Copying except as authorized in license
+  agreement is prohibited.
+ 
+  License location: D:\LINGO64_21\lndlng21.lic
+ 
+  Eval Use Only
+ 
+  License expires:  6 Oct 2025
+ 
+  Licensed for commercial use.
+  Branch-and-bound solver enabled.
+  Nonlinear solver enabled.
+  Barrier solver enabled.
+  Global solver enabled.
+  Integer solver enabled.
+  Stochastic solver enabled.
+  Conic solver enabled.
+ 
+ 
+ [Error Code:    7]
+ 
+ Unable to open file:
+    "C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\modelo_temp.l
+ 
+ 
+ [Error Code:    5]
+ 
+  There is no current model.
+ 

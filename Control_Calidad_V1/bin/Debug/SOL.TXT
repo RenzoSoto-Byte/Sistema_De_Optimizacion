@@ -1,0 +1,3 @@
+Inspectores i1 = 8
+Inspectores i2 = 2
+Costo total minimo = 392

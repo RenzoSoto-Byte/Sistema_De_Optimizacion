@@ -1,0 +1,48 @@
+📄 INSTRUCCIONES DE CONFIGURACIÓN DEL PROYECTO
+
+Antes de ejecutarlo, por favor sigue los siguientes pasos para que funcione correctamente en tu computadora:
+
+🔧 1. CAMBIA LA RUTA DEL ARCHIVO DEL MODELO `.lng` (CONFIGURADO AUTOMÁTICAMENTE EN C#)
+El archivo del modelo **`mod_temp.lng`** se genera automáticamente cuando se hace clic en el botón **"Lingo"** en la aplicación. Sin embargo, debes asegurarte de que la **ruta del archivo** que se utiliza en el código es correcta.
+
+En el código de C#, busca esta línea que define la ruta del archivo **`mod_temp.lng`**:
+
+    string rutaModelo = @"C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\mod_temp.lng";
+
+📌 Reemplázala por la ruta correcta en tu computadora donde quieres que se guarde el archivo **`mod_temp.lng`**, por ejemplo:
+
+    string rutaModelo = @"D:\TuCarpeta\especifica\mod_temp.lng";  // Cambia la ruta aquí
+
+---
+
+📝 2. CAMBIA LA RUTA DEL ARCHIVO DE SALIDA `SOL.TXT` (CONFIGURADO AUTOMÁTICAMENTE EN C#)
+El archivo **`SOL.TXT`** se genera automáticamente cuando se ejecuta el modelo. La ruta del archivo de salida **`SOL.TXT`** también se define dinámicamente en el código.
+
+En el código de C#, busca esta línea que define la ruta de salida:
+
+    string archivoSalida = @"C:\Users\RENZO\source\repos\Control_Calidad_V1\Control_Calidad_V1\SOL.TXT";
+
+📌 Cámbiala por la ruta donde deseas que se guarde el archivo de resultados, por ejemplo:
+
+    string archivoSalida = @"D:\TuCarpeta\especifica\SOL.TXT";  // Cambia la ruta aquí
+
+---
+
+📂 3. CAMBIA LA RUTA EN EL MODELO `.lng` DEL MODELO (CONFIGURADO AUTOMÁTICAMENTE EN C#)
+El archivo del modelo **`mod_temp.lng`** contiene la ruta para guardar los resultados. Esto se configura automáticamente en el código cuando se genera el modelo.
+
+En el código de C#, la línea que define la ruta de salida del archivo **`SOL.TXT`** en el modelo es la siguiente:
+
+    @DIVERT('C:\\Users\\RENZO\\source\\repos\\Control_Calidad_V1\\Control_Calidad_V1\\SOL.TXT');
+
+📌 Cámbiala por la ruta donde deseas que se guarde el archivo de resultados, por ejemplo:
+
+    @DIVERT('D:\\TuCarpeta\\especifica\\SOL.TXT');  // Cambia la ruta aquí
+
+⚠️ IMPORTANTE: Debes usar doble barra invertida (`\\`) en las rutas para que funcione correctamente.
+
+---
+
+✅ **Recomendación**: Coloca todos los archivos del proyecto en una sola carpeta y usa rutas absolutas para evitar problemas con las rutas relativas. Asegúrate de que las rutas existan en tu PC y que tengas permisos de lectura/escritura.
+
+Si tienes alguna pregunta o encuentras algún problema con la configuración, no dudes en ponerte en contacto con el soporte técnico.

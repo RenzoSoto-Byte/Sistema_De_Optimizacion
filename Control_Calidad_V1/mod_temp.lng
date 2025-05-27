@@ -1,0 +1,42 @@
+
+MODEL:
+SETS:
+INSPECTORES /1..2/: sueldo, margen, costo_error, piezas, capacidad;
+ENDSETS
+
+DATA:
+piezas = 25 15;
+sueldo = 4 3;
+margen = 2 5;
+costo_error = 2 2;
+capacidad = 8 10;
+horas = 8;
+piezasmin = 1800;
+ENDDATA
+
+SUBMODEL CALIDAD:
+! Calculamos el costo total con sueldos y errores por inspección;
+[OBJETIVO] MIN = (sueldo(1) * horas + piezas(1) * horas * (margen(1)/100) * costo_error(1)) * i1 +
+                 (sueldo(2) * horas + piezas(2) * horas * (margen(2)/100) * costo_error(2)) * i2;
+
+! Se deben inspeccionar al menos piezasmin;
+(piezas(1) * horas * i1 + piezas(2) * horas * i2) >= piezasmin;
+
+! Restricción por disponibilidad de inspectores;
+i1 <= capacidad(1);
+i2 <= capacidad(2);
+
+@GIN(i1);
+@GIN(i2);
+ENDSUBMODEL
+
+CALC:
+@SOLVE(CALIDAD);
+@DIVERT('C:\\Users\\RENZO\\Desktop\\PROYECTOS\\ProjectLingo-main-VF\\Control_Calidad_V1\\SOL.TXT');
+@WRITE('Inspectores i1 = ', i1, @NEWLINE(1));
+@WRITE('Inspectores i2 = ', i2, @NEWLINE(1));
+@WRITE('Costo total minimo = ', OBJETIVO, @NEWLINE(1));
+@DIVERT();
+ENDCALC
+
+END
