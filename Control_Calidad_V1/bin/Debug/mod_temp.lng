@@ -32,7 +32,7 @@ ENDSUBMODEL
 
 CALC:
 @SOLVE(CALIDAD);
-@DIVERT('C:\\Users\\RENZO\\Desktop\\MOD\\ProjectLingo-main (1)\\ProjectLingo-main\\Control_Calidad_V1\\bin\\Debug\\SOL.TXT');
+@DIVERT('C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\bin\\Debug\\SOL.TXT');
 @WRITE('Inspectores i1 = ', i1, @NEWLINE(1));
 @WRITE('Inspectores i2 = ', i2, @NEWLINE(1));
 @WRITE('Costo total minimo = ', OBJETIVO, @NEWLINE(1));

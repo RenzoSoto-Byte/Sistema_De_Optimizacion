@@ -119,6 +119,7 @@
   <ItemGroup>
     <Compile Include="clases\ConexionBD\Conexion.cs" />
     <Compile Include="clases\Entidades\inspector.cs" />
+    <Compile Include="clases\Entidades\restricciones.cs" />
     <Compile Include="clases\Servicios_Lingo\DatosLingo.cs" />
     <Compile Include="clases\Servicios_Lingo\ServicioLingo.cs" />
     <Compile Include="clases\Servicios\ServicioDatos.cs" />

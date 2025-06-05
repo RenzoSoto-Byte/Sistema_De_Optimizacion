@@ -44,11 +44,12 @@ namespace Control_Calidad_V1.clases.Servicios
         }
 
         /// <summary>
-        /// Obtiene los valores de horas de jornada y piezas mínimas desde la tabla restricciones.
+        /// Obtiene las restricciones desde la base de datos.
         /// </summary>
-        /// <returns>Tupla con horas y piezas mínimas</returns>
-        public static (int horas, int piezasMinimas) ObtenerRestricciones()
+        /// <returns>Objeto de la clase restricciones</returns>
+        public static restricciones ObtenerRestricciones()
         {
+            restricciones restriccion = null;
             Conexion ejecutarConexion = new Conexion();
             MySqlConnection conn = ejecutarConexion.EstablecerConexion();
 
@@ -56,19 +57,19 @@ namespace Control_Calidad_V1.clases.Servicios
             MySqlCommand cmd = new MySqlCommand(query, conn);
             MySqlDataReader reader = cmd.ExecuteReader();
 
-            int horas = 0;
-            int piezasMin = 0;
-
             if (reader.Read())
             {
-                horas = Convert.ToInt32(reader["jornadaDiariaHoras"]);
-                piezasMin = Convert.ToInt32(reader["piezasMinimas"]);
+                restriccion = new restricciones
+                {
+                    jornadaDiariaHoras = Convert.ToInt32(reader["jornadaDiariaHoras"]),
+                    piezasMinimas = Convert.ToDecimal(reader["piezasMinimas"])
+                };
             }
 
             reader.Close();
             ejecutarConexion.cerrarConexion();
 
-            return (horas, piezasMin);
+            return restriccion;
         }
     }
 }

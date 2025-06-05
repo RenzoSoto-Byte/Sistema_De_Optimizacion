@@ -262,9 +262,9 @@ namespace Control_Calidad_V1
                     txtI2[4].Text = inspectores[1].CostoErrorxProducto.ToString();
                 }
 
-                var (horas, piezasMin) = ServicioDatos.ObtenerRestricciones();
-                txtI1[5].Text = horas.ToString();
-                txtI1[6].Text = piezasMin.ToString();
+                var restricciones = ServicioDatos.ObtenerRestricciones();
+                txtI1[5].Text = restricciones.jornadaDiariaHoras.ToString();
+                txtI1[6].Text = restricciones.piezasMinimas.ToString();
 
                 MessageBox.Show("Datos cargados correctamente desde la base de datos.");
             }
