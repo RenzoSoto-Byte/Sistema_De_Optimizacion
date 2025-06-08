@@ -14,7 +14,7 @@ namespace Control_Calidad_V1.clases.ConexionBD
         static string servidor = "localhost";
         static string bd = "controlcalidad";
         static string usuario = "root";
-        static string password = "0159874326";
+        static string password = "12345678";
         static string puerto = "3306";
 
         string cadenaConexion = "server=" + servidor + ";" + "port =" + puerto + ";" + "user id =" + usuario + ";" + "password=" + password + ";" + "database=" + bd + ";";

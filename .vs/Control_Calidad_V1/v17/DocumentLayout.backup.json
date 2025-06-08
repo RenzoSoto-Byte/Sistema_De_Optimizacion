@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|c:\\users\\jhonn\\desktop\\trabajoabelosiptel\\lingo_trabajosoftware\\control_calidad_v2\\sistema_de_optimizacion\\control_calidad_v1\\clases\\conexionbd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\conexionbd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|c:\\users\\jhonn\\desktop\\trabajoabelosiptel\\lingo_trabajosoftware\\control_calidad_v2\\sistema_de_optimizacion\\control_calidad_v1\\clases\\entidades\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\entidades\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\entidades\\restricciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\entidades\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\entidades\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\servicios\\serviciodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\servicios\\serviciodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\servicios_lingo\\serviciolingo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +27,12 @@
       "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\servicios_lingo\\datoslingo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|c:\\users\\jhonn\\desktop\\trabajoabelosiptel\\lingo_trabajosoftware\\control_calidad_v2\\sistema_de_optimizacion\\control_calidad_v1\\clases\\servicios\\serviciodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\servicios\\serviciodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\entidades\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\entidades\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\clases\\conexionbd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\clases\\conexionbd\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C70CCAE4-77F3-4F76-A06F-56DF0D2E63AA}|Control_Calidad_V1\\Control_Calidad_V1.csproj|solutionrelative:control_calidad_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,45 +50,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "inspector.cs",
-              "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
-              "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
-              "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
-              "RelativeToolTip": "Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T19:33:07.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\ConexionBD\\Conexion.cs",
               "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\ConexionBD\\Conexion.cs",
               "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\ConexionBD\\Conexion.cs",
               "RelativeToolTip": "Control_Calidad_V1\\clases\\ConexionBD\\Conexion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:25:26.216Z"
+              "WhenOpened": "2025-05-21T18:25:26.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DatosLingo.cs",
               "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Servicios_Lingo\\DatosLingo.cs",
               "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Servicios_Lingo\\DatosLingo.cs",
               "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Servicios_Lingo\\DatosLingo.cs",
               "RelativeToolTip": "Control_Calidad_V1\\clases\\Servicios_Lingo\\DatosLingo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:14:17.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T18:14:17.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ServicioLingo.cs",
               "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Servicios_Lingo\\ServicioLingo.cs",
               "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Servicios_Lingo\\ServicioLingo.cs",
@@ -96,33 +83,19 @@
               "RelativeToolTip": "Control_Calidad_V1\\clases\\Servicios_Lingo\\ServicioLingo.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:12:53.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T18:12:53.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs",
               "RelativeDocumentMoniker": "Control_Calidad_V1\\Form1.cs",
               "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs",
               "RelativeToolTip": "Control_Calidad_V1\\Form1.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAUwA0BAAANAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAADwv+oAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:43:20.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs",
-              "RelativeDocumentMoniker": "Control_Calidad_V1\\Form1.cs",
-              "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Control_Calidad_V1\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:43:18.008Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-21T17:43:20.443Z"
             },
             {
               "$type": "Document",
@@ -132,23 +105,45 @@
               "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Entidades\\restricciones.cs",
               "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Entidades\\restricciones.cs",
               "RelativeToolTip": "Control_Calidad_V1\\clases\\Entidades\\restricciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T23:06:50.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ServicioDatos.cs",
               "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Servicios\\ServicioDatos.cs",
               "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Servicios\\ServicioDatos.cs",
               "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Servicios\\ServicioDatos.cs",
               "RelativeToolTip": "Control_Calidad_V1\\clases\\Servicios\\ServicioDatos.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwDsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T04:00:42.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T04:00:42.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inspector.cs",
+              "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
+              "RelativeDocumentMoniker": "Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
+              "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
+              "RelativeToolTip": "Control_Calidad_V1\\clases\\Entidades\\inspector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:33:07.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs",
+              "RelativeDocumentMoniker": "Control_Calidad_V1\\Form1.cs",
+              "ToolTip": "C:\\Users\\jhonn\\Desktop\\TrabajoAbelOsiptel\\Lingo_TrabajoSoftware\\Control_Calidad_V2\\Sistema_De_Optimizacion\\Control_Calidad_V1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Control_Calidad_V1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:43:18.008Z"
             }
           ]
         }
